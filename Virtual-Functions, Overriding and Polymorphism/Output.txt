@@ -1,0 +1,411 @@
+Shape Information
+-----------------
+id:                      2
+Shape name:              left chimeny edge
+Pen character:           |
+Height:                  5
+Width:                   1
+Textual area:            5
+Geometric area:          5
+Textual perimeter:       8
+Geometric perimeter:     12
+Static type:             PK9Rectangle
+Dynamic type:            9Rectangle
+
+=======================================
+Shape Information
+-----------------
+id:                      3
+Shape name:              right chimeny edge
+Pen character:           |
+Height:                  4
+Width:                   1
+Textual area:            4
+Geometric area:          4
+Textual perimeter:       6
+Geometric perimeter:     10
+Static type:             PK9Rectangle
+Dynamic type:            9Rectangle
+
+=======================================
+Shape Information
+-----------------
+id:                      4
+Shape name:              antenna stem
+Pen character:           I
+Height:                  11
+Width:                   1
+Textual area:            11
+Geometric area:          11
+Textual perimeter:       20
+Geometric perimeter:     24
+Static type:             PK9Rectangle
+Dynamic type:            9Rectangle
+
+=======================================
+Shape Information
+-----------------
+id:                      6
+Shape name:              vertical left and right brackets
+Pen character:           [
+Height:                  18
+Width:                   1
+Textual area:            18
+Geometric area:          18
+Textual perimeter:       34
+Geometric perimeter:     38
+Static type:             PK9Rectangle
+Dynamic type:            9Rectangle
+
+=======================================
+Shape Information
+-----------------
+id:                      6
+Shape name:              vertical left and right brackets
+Pen character:           [
+Height:                  18
+Width:                   1
+Textual area:            18
+Geometric area:          18
+Textual perimeter:       34
+Geometric perimeter:     38
+Static type:             PK9Rectangle
+Dynamic type:            9Rectangle
+
+=======================================
+Shape Information
+-----------------
+id:                      6
+Shape name:              vertical left and right brackets
+Pen character:           ]
+Height:                  18
+Width:                   1
+Textual area:            18
+Geometric area:          18
+Textual perimeter:       34
+Geometric perimeter:     38
+Static type:             PK9Rectangle
+Dynamic type:            9Rectangle
+
+=======================================
+Shape Information
+-----------------
+id:                      6
+Shape name:              vertical left and right brackets
+Pen character:           ]
+Height:                  18
+Width:                   1
+Textual area:            18
+Geometric area:          18
+Textual perimeter:       34
+Geometric perimeter:     38
+Static type:             PK9Rectangle
+Dynamic type:            9Rectangle
+
+=======================================
+Shape Information
+-----------------
+id:                      7
+Shape name:              horizontal lines depicting the ground
+Pen character:           -
+Height:                  1
+Width:                   66
+Textual area:            66
+Geometric area:          66
+Textual perimeter:       130
+Geometric perimeter:     134
+Static type:             PK9Rectangle
+Dynamic type:            9Rectangle
+
+=======================================
+Shape Information
+-----------------
+id:                      7
+Shape name:              horizontal lines depicting the ground
+Pen character:           -
+Height:                  1
+Width:                   66
+Textual area:            66
+Geometric area:          66
+Textual perimeter:       130
+Geometric perimeter:     134
+Static type:             PK9Rectangle
+Dynamic type:            9Rectangle
+
+=======================================
+Shape Information
+-----------------
+id:                      7
+Shape name:              horizontal lines depicting the ground
+Pen character:           -
+Height:                  1
+Width:                   66
+Textual area:            66
+Geometric area:          66
+Textual perimeter:       130
+Geometric perimeter:     134
+Static type:             PK9Rectangle
+Dynamic type:            9Rectangle
+
+=======================================
+Shape Information
+-----------------
+id:                      7
+Shape name:              horizontal lines depicting the ground
+Pen character:           -
+Height:                  1
+Width:                   66
+Textual area:            66
+Geometric area:          66
+Textual perimeter:       130
+Geometric perimeter:     134
+Static type:             PK9Rectangle
+Dynamic type:            9Rectangle
+
+=======================================
+Shape Information
+-----------------
+id:                      7
+Shape name:              horizontal lines depicting the ground
+Pen character:           -
+Height:                  1
+Width:                   66
+Textual area:            66
+Geometric area:          66
+Textual perimeter:       130
+Geometric perimeter:     134
+Static type:             PK9Rectangle
+Dynamic type:            9Rectangle
+
+=======================================
+Shape Information
+-----------------
+id:                      7
+Shape name:              horizontal lines depicting the ground
+Pen character:           -
+Height:                  1
+Width:                   66
+Textual area:            66
+Geometric area:          66
+Textual perimeter:       130
+Geometric perimeter:     134
+Static type:             PK9Rectangle
+Dynamic type:            9Rectangle
+
+=======================================
+Shape Information
+-----------------
+id:                      8
+Shape name:              door step
+Pen character:           /
+Height:                  1
+Width:                   12
+Textual area:            12
+Geometric area:          12
+Textual perimeter:       22
+Geometric perimeter:     26
+Static type:             PK9Rectangle
+Dynamic type:            9Rectangle
+
+=======================================
+Shape Information
+-----------------
+id:                      9
+Shape name:              door
+Pen character:           |
+Height:                  12
+Width:                   12
+Textual area:            144
+Geometric area:          144
+Textual perimeter:       44
+Geometric perimeter:     48
+Static type:             PK9Rectangle
+Dynamic type:            9Rectangle
+
+=======================================
+Shape Information
+-----------------
+id:                      10
+Shape name:              door top/bottom edge
+Pen character:           =
+Height:                  1
+Width:                   10
+Textual area:            10
+Geometric area:          10
+Textual perimeter:       18
+Geometric perimeter:     22
+Static type:             PK9Rectangle
+Dynamic type:            9Rectangle
+
+=======================================
+Shape Information
+-----------------
+id:                      10
+Shape name:              door top/bottom edge
+Pen character:           =
+Height:                  1
+Width:                   10
+Textual area:            10
+Geometric area:          10
+Textual perimeter:       18
+Geometric perimeter:     22
+Static type:             PK9Rectangle
+Dynamic type:            9Rectangle
+
+=======================================
+Shape Information
+-----------------
+id:                      11
+Shape name:              door knob
+Pen character:           O
+Height:                  1
+Width:                   1
+Textual area:            1
+Geometric area:          1
+Textual perimeter:       0
+Geometric perimeter:     4
+Static type:             PK9Rectangle
+Dynamic type:            9Rectangle
+
+=======================================
+Shape Information
+-----------------
+id:                      12
+Shape name:              left window
+Pen character:           +
+Height:                  5
+Width:                   5
+Textual area:            13
+Geometric area:          12.5
+Textual perimeter:       16
+Geometric perimeter:     14.1421
+Static type:             PK7Rhombus
+Dynamic type:            7Rhombus
+
+=======================================
+Shape Information
+-----------------
+id:                      12
+Shape name:              left window
+Pen character:           +
+Height:                  5
+Width:                   5
+Textual area:            13
+Geometric area:          12.5
+Textual perimeter:       16
+Geometric perimeter:     14.1421
+Static type:             PK7Rhombus
+Dynamic type:            7Rhombus
+
+=======================================
+Shape Information
+-----------------
+id:                      13
+Shape name:              tree trunk
+Pen character:           H
+Height:                  5
+Width:                   3
+Textual area:            15
+Geometric area:          15
+Textual perimeter:       12
+Geometric perimeter:     16
+Static type:             PK9Rectangle
+Dynamic type:            9Rectangle
+
+=======================================
+Shape Information
+-----------------
+id:                      14
+Shape name:              top level leaves
+Pen character:           *
+Height:                  4
+Width:                   7
+Textual area:            16
+Geometric area:          14
+Textual perimeter:       12
+Geometric perimeter:     17.6301
+Static type:             PK13AcuteTriangle
+Dynamic type:            13AcuteTriangle
+
+=======================================
+Shape Information
+-----------------
+id:                      14
+Shape name:              top level leaves
+Pen character:           *
+Height:                  4
+Width:                   11
+Textual area:            16
+Geometric area:          22
+Textual perimeter:       12
+Geometric perimeter:     24.6015
+Static type:             PK13AcuteTriangle
+Dynamic type:            13AcuteTriangle
+
+=======================================
+Shape Information
+-----------------
+id:                      14
+Shape name:              top level leaves
+Pen character:           *
+Height:                  4
+Width:                   19
+Textual area:            16
+Geometric area:          38
+Textual perimeter:       12
+Geometric perimeter:     39.6155
+Static type:             PK13AcuteTriangle
+Dynamic type:            13AcuteTriangle
+
+=======================================
+         a geometric house: front view
+
+
+                         /\
+                        //\\
+                       ///\\\
+                      ////\\\\
+                     /////\\\\\
+                    //////\\\\\\
+                   ///////\\\\\\\
+                  ////////\\\\\\\\     =====I=====
+          _/\_   /////////\\\\\\\\\     ====I====
+          \||/  //////////\\\\\\\\\\     ===I===
+           ||  ///////////\\\\\\\\\\\     ==I==
+           || ////////////\\\\\\\\\\\\     =I=
+           ||/////////////\\\\\\\\\\\\\     I
+           ||/////////////\\\\\\\\\\\\\\    I
+           |//////////////\\\\\\\\\\\\\\\   I
+          ////////////////\\\\\\\\\\\\\\\\  I
+         /////////////////\\\\\\\\\\\\\\\\\ I
+        //////////////////\\\\\\\\\\\\\\\\\\I
+       ///////////////////\\\\\\\\\\\\\\\\\\\            *
+      /[][][][][][][][][][][][][][][][][][][]\           ***
+       []                                  []          * *****
+       []                                  []          ***
+       []               5421               []          *****
+       []           |==========|           []      *
+       []           ||||||||||||           []      ***
+       []     +     ||||||||||||   +       []      *****
+       []     +++   ||||||||||||   +++     []
+       []     ++++  ||||||||||||   ++++    []
+       []           ||||||||||||           []
+       []           |O||||||||||           []
+       []           ||||||||||||           []
+       []           ||||||||||||           []
+       []           ||||||||||||           []              HHH
+       []           ||||||||||||           []              HHH
+       []           |==========|           []              HHH
+       []           ////////////           []              HHH
+       [][][][][][][][][][][][][][][][][][][]              HHH
+     --[][][][][][][][][][][][][][][][][][][]--------------------------
+    ------------------------------------------------------------------
+   ------------------------------------------------------------------
+  ------------------------------------------------------------------
+ ------------------------------------------------------------------
+------------------------------------------------------------------
+
+
+
+
+-------------------------------
