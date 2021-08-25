@@ -1,0 +1,10 @@
+
+Section 5.1
+
+Question 1 : Write a declaration for a function named process2D that is to receive and 
+	           process a raw array of 7 raw arrays, each of 5 doubles.
+Answer :     void process2D(doubles arr[][5]) ;
+
+Question 2 : Write a declaration for a function named process3D that is to receive and
+	           process a three-dimensional 5 × 3 × 7 array of integers.
+Answer :     void process3D(int (*arr)[3][7]) ;
