@@ -6,6 +6,10 @@
 // include other types, functors, or function facilitators of your choice in this file
 #include <iostream>
 #include <vector>
+#include <algorithm>
+#include <functional>
+#include <iterator>
+#include <cassert>
 #include <set>
 using std::cout;
 
